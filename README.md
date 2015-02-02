@@ -32,3 +32,7 @@ BozoCrack was written by [Juuso Salonen](http://twitter.com/juusosalonen), the g
 
 ## License
 Do whatever you wish. Public domain, yadda yadda.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/opexxx/bozocrack/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
